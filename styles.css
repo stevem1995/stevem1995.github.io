@@ -1,0 +1,32 @@
+H1 { font-size: 200%;
+	 font-weight: bold;
+	color:black;
+	}
+p {
+	color:BLACK;
+
+	font-size: 14pt;
+	
+	font-family: serif;
+	}
+a {
+	color:black;
+	}
+	
+	h2 { font-size: 150%;
+ 	font-style: italic;
+ 	text-decoration: underline }
+ 	
+nav li { display: inline-block; 
+	border: 2px solid #B77F5A; 
+	background: #BE7174;
+	font-size: 150%;
+	font-style: italic;
+	text-decoration: underline;
+	font color:black;
+	padding: 20px;
+	margin: 20px;
+	width: 250px;
+	}
+body { background: #B1CCD7
+	}
